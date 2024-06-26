@@ -1,0 +1,84 @@
+{
+  "products": [
+    {
+      "id": 0,
+      "name": "Pizza",
+      "detail": "Lorem ipsum dolor sit amet, consectetur adipisicingelit. At dicta asperiores veniam repellat unde debitis quisquam magnam magni ut deleniti!",
+      "img": "images/pizza.jpg",
+      "quantity": 0,
+      "price": 30,
+      "status": true
+    },
+    {
+      "id": 1,
+      "name": "Hambuger",
+      "detail": "Lorem ipsum dolor sit amet, consectetur adipisicingelit. At dicta asperiores veniam repellat unde debitis quisquam magnam magni ut deleniti!",
+      "img": "images/Hamburger.jpg",
+      "quantity": 17,
+      "price": 15,
+      "status": true
+    },
+    {
+      "id": 3,
+      "name": "Bread",
+      "detail": "Lorem ipsum dolor sit amet, consectetur adipisicingelit. At dicta asperiores veniam repellat unde debitis quisquam magnam magni ut deleniti!",
+      "img": "images/bread.jpg",
+      "quantity": 3,
+      "price": 30,
+      "status": true
+    },
+    {
+      "id": 4,
+      "name": "Cake",
+      "detail": "Lorem ipsum dolor sit amet, consectetur adipisicingelit. At dicta asperiores veniam repellat unde debitis quisquam magnam magni ut deleniti!",
+      "img": "images/Cake.jpg",
+      "quantity": 8,
+      "price": 30,
+      "status": true
+    }
+  ],
+  "carts": [
+    {
+      "id": 1231148704,
+      "product": {
+        "id": 3,
+        "name": "Bread",
+        "detail": "Lorem ipsum dolor sit amet, consectetur adipisicingelit. At dicta asperiores veniam repellat unde debitis quisquam magnam magni ut deleniti!",
+        "img": "images/bread.jpg",
+        "quantity": 5,
+        "price": 30,
+        "status": true
+      },
+      "quantity": 1,
+      "quantityUpdate": 0
+    },
+    {
+      "id": 6405063215,
+      "product": {
+        "id": 4,
+        "name": "Cake",
+        "detail": "Lorem ipsum dolor sit amet, consectetur adipisicingelit. At dicta asperiores veniam repellat unde debitis quisquam magnam magni ut deleniti!",
+        "img": "images/Cake.jpg",
+        "quantity": 10,
+        "price": 30,
+        "status": true
+      },
+      "quantity": 1,
+      "quantityUpdate": 0
+    },
+    {
+      "id": 8298422403,
+      "product": {
+        "id": 1,
+        "name": "Hambuger",
+        "detail": "Lorem ipsum dolor sit amet, consectetur adipisicingelit. At dicta asperiores veniam repellat unde debitis quisquam magnam magni ut deleniti!",
+        "img": "images/Hamburger.jpg",
+        "quantity": 1,
+        "price": 15,
+        "status": true
+      },
+      "quantity": 4,
+      "quantityUpdate": 1
+    }
+  ]
+}
